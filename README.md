@@ -30,6 +30,15 @@ Lead Engineer (AI/GenAI) at PwC with 11+ years of software engineering experienc
 
 ## Tools & Utilities
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vigneshn-codes.vigneshn-codes&"  />
+</div>
+
+###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vigneshn-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vigneshn-codes&theme=dark&hide_border=false)<br/>
