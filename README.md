@@ -1,5 +1,5 @@
 # 💫 About Me:
-Lead Engineer (AI/GenAI) at PwC with 11+ years of software engineering experience. Specialized in building enterprise Web applications using Node.js, Python, React.js, SQL, noSql, AI/ML solutions with expertise in LLMs, Prompt Engineering, RAG systems, and Vector Databases. Proven track record of leading cross-functional teams across Healthcare, Banking, and Finance domains. Results-driven engineer with strong analytical skills, excellent communication, and passion for GenAI innovation and DevOps for AI systems. 
+Lead Engineer (Python/Node.js/React/AI/GenAI) at PwC with 11+ years of software engineering experience. Specialized in building enterprise Web applications using Node.js, Python, React.js, SQL, noSql, AI/ML solutions with expertise in LLMs, Prompt Engineering, RAG systems, and Vector Databases. Proven track record of leading cross-functional teams across Healthcare, Banking, and Finance domains. Results-driven engineer with strong analytical skills, excellent communication, and passion for GenAI innovation and DevOps for AI systems. 
 
 
 ## 🌐 Socials:
