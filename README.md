@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as Lead Engineer (AI/GenAI) at Pwc. Having around 11+ years of industry experience as Senior Software Engineer transitioning into AI Engineering, with focus on Large Language Models, Generative AI, Prompt Engineering, RAG systems, and Vector Database architectures. <br>Specialized in developing and programming with expertise in Coding, designing, Bug fixing, Optimization, Implementation, monitoring and AI solution architecture. <br>Worked closely with Business analysts, development teams, Data Scientists, and Infrastructure specialists to deliver high availability AI solutions and critical applications while understanding functional requirements. Experienced in domains Healthcare, Educational, Banking, Finance, and Enterprise AI/ML solutions.<br>Decisive leader and reliable team builder with results focused and driven approach. Excellent leadership record of leading development teams in enterprise-wise development and AI/ML projects. Excellent written and verbal communication skills, Analytical, Problem Solving Skills, Strict attention to detail and ability to work independently and within team environments.<br>Currently advancing expertise in GenAI, LLM Engineering, LangChain/LangGraph ecosystems, RAG architectures, and DevOps for AI/ML systems. 
+Lead Engineer (AI/GenAI) at PwC with 11+ years of software engineering experience. Specialized in building enterprise Web applications using Node.js, Python, React.js, SQL, noSql, AI/ML solutions with expertise in LLMs, Prompt Engineering, RAG systems, and Vector Databases. Proven track record of leading cross-functional teams across Healthcare, Banking, and Finance domains. Results-driven engineer with strong analytical skills, excellent communication, and passion for GenAI innovation and DevOps for AI systems. 
 
 
 ## 🌐 Socials:
@@ -37,5 +37,9 @@ I am currently working as Lead Engineer (AI/GenAI) at Pwc. Having around 11+ yea
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vigneshn-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
