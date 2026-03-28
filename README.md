@@ -4,12 +4,6 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1200&color=F59E0B&center=true&vCenter=true&width=750&lines=🤖+Production+LLM+%26+RAG+Systems;🧠+LangGraph+%C2%B7+Agents+%C2%B7+Vector+Databases;⚡+11%2B+Years+of+Enterprise+Engineering;🏥+Healthcare+%C2%B7+🏦+Banking+%C2%B7+💹+Finance;🚀+Full-Stack+AI+from+Backend+to+UI" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
 [![Views](https://komarev.com/ghpvc/?username=vigneshn-codes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vigneshn-codes)
 
@@ -17,15 +11,30 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-## 🌟 At a Glance
+```
+  ┌──────────────────────────────────┐
+  │  📍  Lead Engineer/AI Engineer   │
+  │  🗓  11+ Years Engineering       │
+  │  🧠  LLMs · RAG · Agents         │
+  │  🌐  Healthcare · Banking · Fin  │
+  │  🔗  Full-Stack AI Builder       │
+  └──────────────────────────────────┘
+```
 
-| 📅 **Experience** | 🌍 **Domains** | 🤖 **Specialization** | 🧑‍🤝‍🧑 **Role** |
-|:---:|:---:|:---:|:---:|
-| 11+ Years | Healthcare · Banking · Finance | LLMs · RAG · Agents · GenAI · PERN | Lead Engineer & Team Lead |
+</td>
+<td>
 
-</div>
+I build AI systems that survive **real users** in **regulated industries**. Not demos — production. From architecting RAG pipelines and agentic workflows to full React frontends and Azure cloud infrastructure, I ship **end-to-end AI products**.
+
+> *11 years across Healthcare, Banking, and Finance means every system I design has compliance, resilience, and observability built in by default.*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,7 +61,7 @@
 
 ---
 
-⚙️ **Backend & APIs** &nbsp;&nbsp;&nbsp; Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; GraphQL &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Microservices
+⚙️ **Backend & APIs** &nbsp;&nbsp;&nbsp; Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; GraphQL &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Fast API &nbsp;·&nbsp; Microservices
 
 ---
 
@@ -80,16 +89,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshn-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshn-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vigneshn-codes&theme=tokyonight&hide_border=true)](https://github.com/vigneshn-codes)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vigneshn-codes&theme=tokyonight&hide_border=true" width="60%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vigneshn-codes&theme=tokyonight&no-frame=true&row=1&column=6" width="92%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshn-codes&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
