@@ -53,35 +53,16 @@ I build AI systems that survive **real users** in **regulated industries**. Not 
 
 ## 💻 Tech Stack
 
-🟡 **Languages** &nbsp;&nbsp;&nbsp; Python &nbsp;·&nbsp; JavaScript (ES2023+) &nbsp;·&nbsp; TypeScript
-
----
-
-🎨 **Frontend** &nbsp;&nbsp;&nbsp; React.js &nbsp;·&nbsp; Redux &nbsp;·&nbsp; HTML5 &nbsp;·&nbsp; CSS3 &nbsp;·&nbsp; SCSS &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; Jade/Pug &nbsp;·&nbsp; Streamlit
-
----
-
-⚙️ **Backend & APIs** &nbsp;&nbsp;&nbsp; Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; GraphQL &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Fast API &nbsp;·&nbsp; Microservices
-
----
-
-🗄️ **Databases** &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Redis &nbsp;·&nbsp; MS SQL Server &nbsp;·&nbsp; Sequelize &nbsp;·&nbsp; Mongoose &nbsp;·&nbsp; Query Optimisation &nbsp;·&nbsp; Indexing & Sharding
-
----
-
-☁️ **Cloud & DevOps** &nbsp;&nbsp;&nbsp; Azure DevOps &nbsp;·&nbsp; Azure Key Vault &nbsp;·&nbsp; Azure Blob Storage &nbsp;·&nbsp; Azure Service Bus &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Datadog &nbsp;·&nbsp; SonarQube
-
----
-
-🧪 **Testing** &nbsp;&nbsp;&nbsp; Jest &nbsp;·&nbsp; Mocha &nbsp;·&nbsp; Chai &nbsp;·&nbsp; Unit Testing &nbsp;·&nbsp; Integration Testing &nbsp;·&nbsp; 70%+ Coverage Benchmarks
-
----
-
-🧠 **ML & Data Science** &nbsp;&nbsp;&nbsp; TensorFlow &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Jupyter
-
----
-
-🤝 **Leadership & Process** &nbsp;&nbsp;&nbsp; Agile / Scrum &nbsp;·&nbsp; Sprint Planning &nbsp;·&nbsp; Backlog Refinement &nbsp;·&nbsp; Code Review &nbsp;·&nbsp; Mentoring
+| | |
+|:---|:---|
+| 🟡 &nbsp; **Languages** | `Python` &nbsp; `JavaScript ES2023+` &nbsp; `TypeScript` |
+| 🎨 &nbsp; **Frontend** | `React.js` &nbsp; `Redux` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `SCSS` &nbsp; `Bootstrap` &nbsp; `Jade/Pug` &nbsp; `Streamlit` |
+| ⚙️ &nbsp; **Backend & APIs** | `Node.js` &nbsp; `Express.js` &nbsp; `REST APIs` &nbsp; `GraphQL` &nbsp; `Flask` &nbsp; `FastAPI` &nbsp; `Microservices` |
+| 🗄️ &nbsp; **Databases** | `PostgreSQL` &nbsp; `MySQL` &nbsp; `MongoDB` &nbsp; `Redis` &nbsp; `MS SQL Server` &nbsp; `Sequelize` &nbsp; `Mongoose` &nbsp; `Query Optimisation` &nbsp; `Indexing & Sharding` |
+| ☁️ &nbsp; **Cloud & DevOps** | `Azure DevOps` &nbsp; `Azure Key Vault` &nbsp; `Azure Blob Storage` &nbsp; `Azure Service Bus` &nbsp; `Docker` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `CI/CD` &nbsp; `Nginx` &nbsp; `Datadog` &nbsp; `SonarQube` |
+| 🧪 &nbsp; **Testing** | `Jest` &nbsp; `Mocha` &nbsp; `Chai` &nbsp; `Unit Testing` &nbsp; `Integration Testing` &nbsp; `70%+ Coverage Benchmarks` |
+| 🧠 &nbsp; **ML & Data Science** | `TensorFlow` &nbsp; `PyTorch` &nbsp; `scikit-learn` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Jupyter` |
+| 🤝 &nbsp; **Leadership & Process** | `Agile / Scrum` &nbsp; `Sprint Planning` &nbsp; `Backlog Refinement` &nbsp; `Code Review` &nbsp; `Mentoring` |
 
 ---
 
