@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vignesh%20Nagarajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Lead%20AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20GenAI%20Architect&descAlignY=58&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vignesh%20Nagarajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%20AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20GenAI%20Architect%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18&animation=twinkling"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=11%2B+Years+of+Engineering+Excellence;Architecting+Production+AI+%2F+LLM+Systems;RAG+%7C+Agents+%7C+Vector+DBs+%7C+LangGraph;Python+%7C+Node.js+%7C+React+%7C+Azure+%7C+GenAI;Building+What+Most+Teams+Only+Whiteboard." alt="Typing SVG" /></a>
@@ -10,7 +10,6 @@
 
 <!-- PROFILE SHIELDS -->
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
-[![Medium](https://img.shields.io/badge/Read%20My%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vickypaiyaa)
 [![Email](https://img.shields.io/badge/Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=vigneshn-codes&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/vigneshn-codes)
 
@@ -20,7 +19,7 @@
 
 <div align="center">
 
-## ❝ I don't just use AI — I architect it, deploy it, and make it production-safe. ❞
+## ❝ I don't just use AI — I architect it, Build like Production. ❞
 
 </div>
 
@@ -119,7 +118,7 @@ class VigneshNagarajan:
 
 | | |
 |---|---|
-| 🏢 **Current Role** | Lead Engineer (AI/GenAI) at **PwC** |
+| 🏢 **Current Role** | Lead Engineer (AI/GenAI/Node.js/Python/React) at **PwC** |
 | 📅 **Experience** | **11+ years** of hands-on engineering |
 | 🌍 **Industries** | Healthcare · Banking · Finance |
 | 🤝 **Leadership** | Cross-functional team lead & technical mentor |
@@ -169,10 +168,24 @@ LLM evals, cost optimization, and observability — not just vibes
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshn-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=vigneshn-codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa"/>
+<!-- Primary: github-readme-stats (most reliable, self-hostable) -->
+<a href="https://github.com/vigneshn-codes">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vigneshn-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true&cache_seconds=86400" alt="Vignesh's GitHub Stats"/>
+</a>
+<a href="https://github.com/vigneshn-codes">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshn-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<!-- Streak stats via github-readme-streak-stats (most stable streak provider) -->
+<a href="https://github.com/vigneshn-codes">
+  <img src="https://streak-stats.demolab.com/?user=vigneshn-codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" alt="GitHub Streak"/>
+</a>
 
 </div>
+
+> 💡 *If stat cards don't render, GitHub's image proxy may be caching — try a hard refresh or view my profile directly.*
 
 ---
 
@@ -188,7 +201,6 @@ or an **HR leader** sourcing top-tier GenAI talent —
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
 [![Email](https://img.shields.io/badge/Email%20Me%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com)
-[![Medium](https://img.shields.io/badge/Read%20My%20AI%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vickypaiyaa)
 
 </div>
 
