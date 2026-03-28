@@ -1,222 +1,194 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║        V I G N E S H   N A G A R A J A N                           ║
-║        Lead AI Engineer  ·  PwC  ·  11+ Years                       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vignesh%20Nagarajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Lead%20AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20GenAI%20Architect&descAlignY=58&descSize=18&animation=twinkling"/>
 
-</div>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=11%2B+Years+of+Engineering+Excellence;Architecting+Production+AI+%2F+LLM+Systems;RAG+%7C+Agents+%7C+Vector+DBs+%7C+LangGraph;Python+%7C+Node.js+%7C+React+%7C+Azure+%7C+GenAI;Building+What+Most+Teams+Only+Whiteboard." alt="Typing SVG" /></a>
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Lead+Engineer+%40+PwC;Python+%7C+Node.js+%7C+React+%7C+AI%2FGenAI;LLM+Architect+%7C+RAG+Systems+%7C+Vector+DBs;Building+Enterprise+AI+That+Scales)](https://git.io/typing-svg)
+<!-- PROFILE SHIELDS -->
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
+[![Medium](https://img.shields.io/badge/Read%20My%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vickypaiyaa)
+[![Email](https://img.shields.io/badge/Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vigneshn-codes&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/vigneshn-codes)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<div align="center">
 
-## `$ whoami`
+## ❝ I don't just use AI — I architect it, deploy it, and make it production-safe. ❞
+
+</div>
+
+---
+
+## 🧠 Who Am I — The TL;DR for Engineering Leaders
 
 ```python
 class VigneshNagarajan:
-    role        = "Lead AI Engineer @ PwC"
-    experience  = "11+ years"
-    location    = "India 🇮🇳"
     
-    domains = [
-        "Healthcare",
-        "Banking",
-        "Finance"
+    role        = "Lead AI/GenAI Engineer @ PwC"
+    experience  = "11+ years in enterprise software engineering"
+    
+    ai_focus    = [
+        "Production LLM Systems",       # Not POC — actual enterprise scale
+        "RAG Pipelines & Vector DBs",   # Pinecone, Weaviate, ChromaDB
+        "Agentic Workflows",            # LangGraph, LangChain Agents
+        "Prompt Engineering",           # System prompts, few-shot, CoT
+        "AI DevOps & Observability",    # Datadog, monitoring, evals
     ]
     
-    superpowers = [
-        "LLM Architecture & Fine-tuning",
-        "RAG Systems at Enterprise Scale",
-        "Agentic AI (LangGraph/LangChain)",
-        "Full-Stack + GenAI Integration",
-        "Cross-functional Team Leadership"
-    ]
+    domains     = ["Healthcare", "Banking", "Finance"]
+    stack       = ["Python", "Node.js", "React", "Azure", "Docker"]
     
-    currently   = "Designing next-gen AI workflows"
-    open_to     = "Exciting AI/GenAI Opportunities"
-```
-
-<br clear="right"/>
-
----
-
-## `$ cat ai_expertise.json`
-
-```json
-{
-  "LLM_Engineering": {
-    "models"    : ["GPT-4", "Claude", "Llama", "Mistral", "Gemini"],
-    "techniques": ["Prompt Engineering", "Fine-tuning", "RLHF", "Chain-of-Thought"],
-    "tools"     : ["LangChain", "LangGraph", "LlamaIndex", "Semantic Kernel"]
-  },
-  "RAG_Systems": {
-    "vector_dbs"    : ["Pinecone", "Weaviate", "ChromaDB", "FAISS", "pgvector"],
-    "embeddings"    : ["OpenAI Ada", "Sentence Transformers", "Cohere"],
-    "architectures" : ["Naive RAG", "Advanced RAG", "Modular RAG", "Graph RAG"]
-  },
-  "Agentic_AI": {
-    "frameworks"    : ["LangGraph", "AutoGen", "CrewAI"],
-    "patterns"      : ["ReAct", "Plan-and-Execute", "Multi-Agent", "Tool-calling"],
-    "deployments"   : ["Azure OpenAI", "AWS Bedrock", "GCP Vertex AI"]
-  },
-  "MLOps": {
-    "monitoring"    : ["Datadog", "LangSmith", "Weights & Biases"],
-    "infra"         : ["Docker", "Azure", "CI/CD Pipelines"]
-  }
-}
+    superpower  = "Translating ambiguous business problems into shipped AI products"
+    leadership  = "Cross-functional team lead — from sprint zero to production"
+    
+    def why_hire_me(self):
+        return """
+        Most engineers can prompt an LLM. 
+        Few can architect a fault-tolerant, cost-optimized, 
+        observable AI system that survives real users.
+        I can. And I've done it — in regulated industries.
+        """
 ```
 
 ---
 
-## `$ ls -la ./tech_stack/`
+## 🏗️ What I Actually Build
 
-<div align="center">
+> Not prototypes. Not notebooks. **Systems.**
 
-### ⚡ AI / GenAI Core
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-4B8BBE?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### 🌐 Full-Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🤖 AI & LLM Engineering
+- **RAG Architectures** — Chunking strategies, hybrid search, re-ranking, context compression
+- **Agentic Systems** — Multi-agent orchestration with LangGraph, tool use, memory management
+- **LLM Integration** — OpenAI, Azure OpenAI, Anthropic APIs at production scale
+- **Prompt Engineering** — Chain-of-thought, few-shot, structured outputs, guardrails
+- **Vector Databases** — Semantic retrieval, embedding pipelines, index optimization
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+</td>
+<td width="50%">
 
-### ☁️ DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+### ⚙️ Platform & Engineering
+- **Backend Systems** — Python (Flask/FastAPI), Node.js (Express), GraphQL APIs
+- **Frontend** — React.js, TypeScript, Streamlit AI dashboards
+- **Cloud & DevOps** — Azure, Docker, Nginx, CI/CD pipelines
+- **Observability** — Datadog, LLM evaluation frameworks, cost tracking
+- **Databases** — PostgreSQL, MongoDB, Redis, MSSQL, SQLite
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ cat impact_metrics.log`
-
-<div align="center">
-
-| Metric | Value |
-|:---|:---:|
-| 🏢 Enterprise AI Systems Delivered | **10+** |
-| 🤖 LLM-Powered Applications Built | **15+** |
-| 📊 RAG Pipelines Architected | **8+** |
-| 👥 Engineers Mentored & Led | **20+** |
-| 🏥 Domains: Healthcare / Banking / Finance | **✅** |
-| ⚡ Avg. Query Latency Reduction via RAG Optimization | **~60%** |
-
-</div>
-
----
-
-## `$ cat architecture_patterns.md`
+## 🔬 AI Engineering — Depth Over Buzzwords
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                  ENTERPRISE AI ARCHITECTURE                      │
-│                   (Patterns I Design & Build)                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   User Query                                                     │
-│       │                                                          │
-│       ▼                                                          │
-│  ┌─────────┐    ┌──────────────┐    ┌─────────────────────┐    │
-│  │  React  │───▶│   Node.js/   │───▶│   LangGraph Agent   │    │
-│  │   UI    │    │   FastAPI    │    │  (Orchestrator)     │    │
-│  └─────────┘    └──────────────┘    └──────────┬──────────┘    │
-│                                                 │               │
-│                         ┌───────────────────────┤               │
-│                         │                       │               │
-│                         ▼                       ▼               │
-│                  ┌────────────┐        ┌──────────────┐        │
-│                  │ Vector DB  │        │  LLM (GPT-4/ │        │
-│                  │ (Pinecone/ │        │  Claude/etc) │        │
-│                  │ pgvector)  │        └──────────────┘        │
-│                  └────────────┘                                  │
-│                         │                                        │
-│                         ▼                                        │
-│                  ┌────────────┐                                  │
-│                  │  RAG +     │                                  │
-│                  │  Context   │──────────▶ Final Response        │
-│                  └────────────┘                                  │
-└─────────────────────────────────────────────────────────────────┘
+│                  MY AI ENGINEERING STACK                        │
+├────────────────────┬────────────────────────────────────────────┤
+│  LLM LAYER         │  OpenAI GPT-4 · Azure OpenAI · Anthropic   │
+├────────────────────┼────────────────────────────────────────────┤
+│  ORCHESTRATION     │  LangChain · LangGraph · Custom Agents     │
+├────────────────────┼────────────────────────────────────────────┤
+│  RETRIEVAL (RAG)   │  Hybrid Search · Re-ranking · HyDE · CRAG  │
+├────────────────────┼────────────────────────────────────────────┤
+│  VECTOR STORES     │  Pinecone · Weaviate · ChromaDB · FAISS    │
+├────────────────────┼────────────────────────────────────────────┤
+│  EMBEDDINGS        │  OpenAI · Sentence Transformers · BGE      │
+├────────────────────┼────────────────────────────────────────────┤
+│  OBSERVABILITY     │  Datadog · LangSmith · Custom Evals        │
+├────────────────────┼────────────────────────────────────────────┤
+│  ML / DATA         │  TensorFlow · PyTorch · scikit-learn       │
+│                    │  Pandas · NumPy · Jupyter                  │
+└────────────────────┴────────────────────────────────────────────┘
 ```
 
 ---
 
-## `$ git log --oneline --graph  # What I'm Building`
+## 🏆 Career Snapshot
 
-```
-* f8e3a1c  🧠 Multi-agent orchestration framework (LangGraph)
-* 2b9c14f  📚 Enterprise RAG with hybrid search + re-ranking
-* 7a3d88e  🔌 LLM gateway abstraction layer (multi-model routing)
-* 4f1e52b  📊 AI observability dashboard (LangSmith + Datadog)
-* 9c7b33a  🛡️  Guardrails & hallucination detection layer
-* 1d2a79f  ⚡  Streaming AI responses with WebSocket integration
-* 5e6f80b  🔍  Semantic search across enterprise knowledge bases
-* 8a4c91d  🤖  Fine-tuned domain-specific LLM (Healthcare NLP)
-```
+| | |
+|---|---|
+| 🏢 **Current Role** | Lead Engineer (AI/GenAI) at **PwC** |
+| 📅 **Experience** | **11+ years** of hands-on engineering |
+| 🌍 **Industries** | Healthcare · Banking · Finance |
+| 🤝 **Leadership** | Cross-functional team lead & technical mentor |
+| 🔬 **Specialization** | Enterprise AI · LLM Systems · GenAI Products |
+| 📝 **Thought Leadership** | Writing on AI Engineering @ Medium |
 
 ---
 
-## `$ cat philosophy.txt`
+## 💡 What Sets Me Apart
 
-> *"AI is only as good as the architecture behind it. I don't just integrate LLMs —*
-> *I design the systems that make them reliable, scalable, and business-ready."*
->
-> — Vignesh Nagarajan
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🎯 Production-First**
+<br/><br/>
+Every AI system I build is designed for real scale — not just to demo well
+
+</td>
+<td align="center" width="25%">
+
+**🔒 Regulated Domains**
+<br/><br/>
+11 years in Healthcare & Finance means I build with compliance and risk in mind
+
+</td>
+<td align="center" width="25%">
+
+**🔗 Full-Stack AI**
+<br/><br/>
+From LLM backend to React UI — I ship complete, integrated AI products
+
+</td>
+<td align="center" width="25%">
+
+**📊 Metrics-Driven**
+<br/><br/>
+LLM evals, cost optimization, and observability — not just vibes
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ top  # GitHub Activity`
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshn-codes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vigneshn-codes&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshn-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=vigneshn-codes&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa"/>
 
 </div>
 
 ---
 
-## `$ ping vignesh --connect`
+## 📬 Let's Build Something That Matters
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_—_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
-[![Medium](https://img.shields.io/badge/Medium_—_Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vickypaiyaa)
-[![Email](https://img.shields.io/badge/Email_—_Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com)
+Whether you're an **Engineering Manager** looking for a senior AI hire,<br/>
+an **AI Architect** evaluating a technical partner,<br/>
+or an **HR leader** sourcing top-tier GenAI talent —
+
+**Let's talk.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
+[![Email](https://img.shields.io/badge/Email%20Me%20Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com)
+[![Medium](https://img.shields.io/badge/Read%20My%20AI%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vickypaiyaa)
 
 </div>
 
@@ -224,15 +196,8 @@ class VigneshNagarajan:
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   Open to: AI Architect · Lead AI Engineer Roles    ║
-║   Focus:   LLMs · RAG · Agentic AI · Enterprise     ║
-║   DM me — let's build something exceptional.        ║
-╚══════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vigneshn-codes.vigneshn-codes)
-[![](https://visitcount.itsvg.in/api?id=vigneshn-codes&icon=5&color=6)](https://visitcount.itsvg.in)
+*"The best AI engineers are not the ones who know the most models — they're the ones who know when, why, and how to use them."*
 
 </div>
