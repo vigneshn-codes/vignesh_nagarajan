@@ -11,7 +11,6 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-nagarajank)
-[![Gmail](https://img.shields.io/badge/Email-vickypaiyaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickypaiyaa@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=vigneshn-codes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/vigneshn-codes)
 
 </div>
